@@ -1,1 +1,1 @@
-# ktb-aks-flux
+# k8s-flux-aks
